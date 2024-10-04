@@ -1,4 +1,3 @@
-```markdown
 # Slider.js - Image Slider Website
 
 This project is a simple image slider website developed using HTML, CSS, and JavaScript. It allows users to view a collection of images with a sliding effect, providing a clean and interactive UI for displaying content.
